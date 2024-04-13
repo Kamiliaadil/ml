@@ -98,6 +98,7 @@ for key, value in feature_list.items():
 
 app = Dash(__name__)
 
+server = app.server
 
 app.layout = html.Div(
 children = [   
