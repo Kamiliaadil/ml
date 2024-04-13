@@ -107,7 +107,7 @@ children = [
         children =[
             html.Div(
                 children = [
-                    dmc.Text('Title here', size=22, fw=500),
+                    dmc.Text('Predict Student Dropout', size=22, fw=500),
                     html.Div(
                         style = {'display':'flex'},
                         children = [

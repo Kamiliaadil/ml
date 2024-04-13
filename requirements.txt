@@ -4,3 +4,4 @@ numpy
 dash
 dash-mantine-components
 dash_iconify
+scikit-learn
